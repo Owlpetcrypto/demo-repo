@@ -19,3 +19,10 @@
 5. git commit -m "<heading>" -m "<description>"
 
 I am so confused
+
+6. git push origin master
+
+7. git branch
+
+8. git checkout -b feature/<ticket number>
+    git checkout master
