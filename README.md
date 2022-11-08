@@ -4,7 +4,7 @@
 
 #Learning git commands
 
-1. git clone ssh repository
+1. git clone <ssh repository>
     this clones a repository into ide
 
 2. ls
@@ -15,3 +15,5 @@
 
 4. git add <file> or git add .
     adds to git/ period adds all the fles
+
+5. git commit -m "<heading>" -m "<description>"
