@@ -17,3 +17,5 @@
     adds to git/ period adds all the fles
 
 5. git commit -m "<heading>" -m "<description>"
+
+I am so confused
